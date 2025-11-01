@@ -1,6 +1,6 @@
 # OANDA Connector for Rust
 
-[![Rust](https://img.shields.io/badge/rust-1.70%2B-orange.svg)](https://www.rust-lang.org/)
+[![Rust](https://img.shields.io/badge/rust-1.91%2B-orange.svg)](https://www.rust-lang.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 High-performance, production-ready Rust client for the OANDA forex trading API. Built with safety, speed, and reliability in mind.
