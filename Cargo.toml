@@ -1,6 +1,6 @@
 [package]
 name = "oanda-connector"
-version = "0.1.0"
+version = "0.2.0"
 edition = "2021"
 authors = ["Guilherme F. G. Santos <guifernandosantos@gmail.com>"]
 description = "High-performance Rust client for OANDA's trading API"
